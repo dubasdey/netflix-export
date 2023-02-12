@@ -1,2 +1,5 @@
 # netflix-export
-Export your netflix list to csv file
+
+Allows to export your personal profile list to a CSV file
+
+
