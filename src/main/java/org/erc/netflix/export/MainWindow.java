@@ -84,6 +84,8 @@ public class MainWindow {
     private void createBrowser(){
         browser = new Browser( shell, SWT.EDGE );
         browser.setLayoutData(new GridData(SWT.FILL, SWT.FILL, true, true, 1, 1));
+
+        
         browser.addProgressListener(new ProgressListener() {
             @Override
             public void changed(ProgressEvent event) {
@@ -107,9 +109,11 @@ public class MainWindow {
                             statusLine.setText("List copied to clipboard");
                         }else{
                             statusLine.setText("Not valid list generated");
+                            ErrorDialog.open(shell, "No content to parse");
                         }
                     }catch(Exception e){
                         statusLine.setText("Not valid list generated");
+                        ErrorDialog.open(shell, e.getMessage());
                     }
                 }
             }
