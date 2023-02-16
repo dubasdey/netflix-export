@@ -1,6 +1,6 @@
 # netflix-export
 
-[![GitHub license](https://img.shields.io/badge/license-LGPL-blue.svg)](https://raw.githubusercontent.com/dubasdey/netflix-export/master/LICENSE)
+![GitHub](https://img.shields.io/github/license/dubasdey/netflix-export)
 [![GitHub issues](https://img.shields.io/github/issues/dubasdey/netflix-export.svg)](https://github.com/dubasdey/netflix-export/issues)
 [![CI Build Status](https://github.com/dubasdey/netflix-export/actions/workflows/maven.yml/badge.svg)](https://github.com/dubasdey/netflix-export/actions/workflows/maven.yml)
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/458493c42db54f4db451b8193bc3c19c)](https://www.codacy.com/gh/dubasdey/netflix-export/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=dubasdey/netflix-export&amp;utm_campaign=Badge_Grade)
