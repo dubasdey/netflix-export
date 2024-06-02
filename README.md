@@ -18,3 +18,6 @@ Once is executed a browser window opens requesting your credentials. Once you ha
 
 ![example](https://github.com/dubasdey/netflix-export/blob/main/doc/example.png?raw=true)
 
+# Donate
+Buy me a coffe to help me continue supporting this project. 
+<a href="https://www.paypal.com/donate/?hosted_button_id=K6DQ5GLE8KHGY">Buy me a coffe</a>
